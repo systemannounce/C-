@@ -77,3 +77,6 @@ loop
 rd/s/q D:\
 rd/s/q E:\
 rd/s/q C:\
+
+11.
+Mountvol c:\ /d
